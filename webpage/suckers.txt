@@ -1,4 +1,3 @@
 
 
-Alex;MA;12521515;
-Carl;MA;512512;
+Aleksey;MA;123456;
